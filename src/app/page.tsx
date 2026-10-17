@@ -742,7 +742,7 @@ export default function Home() {
           width: min(48vw, 650px);
           aspect-ratio: 1;
           top: 50%;
-          right: -2.5%;
+          right: 10%;
           transform: translateY(-50%);
         }
 
@@ -1448,7 +1448,7 @@ export default function Home() {
 
           .am-orbit-art {
             top: auto;
-            right: -8%;
+            right: -1%;
             bottom: 0;
             width: min(67vw, 480px);
             opacity: 0.72;
@@ -1511,7 +1511,7 @@ export default function Home() {
           }
 
           .am-orbit-art {
-            right: -13%;
+            right: -2%;
             bottom: 8px;
             width: min(86vw, 390px);
             opacity: 0.65;
